@@ -1,0 +1,41 @@
+
+.speech {
+    font-size: 16px;
+    color: black;
+}
+.direction {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0%;
+    color: brown;
+}
+.direction:hover {
+    color:black;
+    background-color: antiquewhite;
+}
+
+
+.NORA{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color:aquamarine;
+}
+
+.PORTER {
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color:chartreuse;
+}
+
+
+.HELMER {
+    font-style:initial;
+    color:blue;
+} 
+
+.MAID {
+    font-style: unset;
+    color:chocolate;
+}
+
