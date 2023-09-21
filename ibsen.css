@@ -56,4 +56,27 @@ row stripes*/
 }
 
 
+/* Styles for the name */
+.PORTER:hover {
+   
+    color:brown;
+    box-shadow: 2px 2px 5px rgba(255, 0, 0, 0.7);
 
+  }
+  
+  .HELMER:hover {
+    
+    box-shadow: 2px 2px 5px rgba(255, 0, 0, 0.7); 
+  
+   
+    border: 2px solid blue; 
+  }
+
+  .NORA:hover {
+    color:blueviolet;
+    box-shadow: 2px 2px 5px rgba(255, 0, 0, 0.7);
+  }
+  .nav{
+    display: inline;
+}
+  
