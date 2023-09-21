@@ -1,4 +1,6 @@
 
+
+/* part:5*/
 .speech {
     font-size: 16px;
     color: black;
@@ -38,4 +40,20 @@
     font-style: unset;
     color:chocolate;
 }
+
+.table,th,td {
+    /*borders, colors, text alignment, and 
+row stripes*/
+    
+    border: 1px solid black;
+    color:brown;
+    text-align: left;
+    margin:auto;
+    width: 100px;
+    padding-top: 12px;
+    
+    
+}
+
+
 
